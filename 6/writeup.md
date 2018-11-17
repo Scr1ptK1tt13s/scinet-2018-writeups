@@ -60,6 +60,8 @@ Z pomocą Google oraz drugiej wskazówki możemy znaleźć [post na reddicie](ht
 
 W ten sposób poznajemy prawdziwe znaczenie tekstu:
 
+![cipher](./img/cipher.png "cipher")
+
 ```
 remember reality is an illusion, the universe is a hologram, buy gold, bye!
 ```
